@@ -4,4 +4,9 @@ Ryan, Y., & Fantoli, M. (2024). Early Modern Book Catalogues and Multilingualism
 
 Table 1 contains a mistake in the row for the combined dataset. The correct values can be found here:
 | dataset                   | monolingual | multilingual | monolingual ed. | monolingual transl. |
-| combined                  | 5220        | 745          | 3897           | 1331                |
+|---------------------------|-------------|--------------|-----------------|---------------------|
+| CAA                       | 3466        | 194          | 3291            | 175                 |
+| balanced CAA monolingual  | 200         | 194          | not used        | not used            |
+| balanced CAA translation  | not used    | not used     | 350             | 175                 |
+| ECCO-classics             | 550         | 1765         | 1156            | 609                 |
+| combined                  | 7020        | 1877         | 4513            | 2507                |
